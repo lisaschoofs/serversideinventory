@@ -1,0 +1,24 @@
+{
+  "name": "chi_serversideinventory",
+  "version": "1.0.0",
+  "description": "Server Side Inventory ===================== in-class: 3-16-2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaschoofs/serversideinventory.git"
+  },
+  "author": "Lisa Schoofs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaschoofs/serversideinventory/issues"
+  },
+  "homepage": "https://github.com/lisaschoofs/serversideinventory#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.2.0"
+  }
+}
